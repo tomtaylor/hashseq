@@ -3,7 +3,7 @@
 // Hash IDs are a string represnetation of numerical incrementing IDs,
 // obfuscating the integer value. For more information see
 // http://hashids.org/go/
-package id
+package hashseq
 
 import (
 	"database/sql/driver"
